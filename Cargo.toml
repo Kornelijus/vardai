@@ -1,0 +1,12 @@
+[package]
+name = "vardai"
+version = "0.1.0"
+edition = "2018"
+
+license = "Apache-2.0"
+description = "A temporary placeholder for an upcoming package."
+homepage = "https://github.com/Kornelijus/vardai"
+repository = "https://github.com/Kornelijus/vardai"
+readme = "README.md"
+
+[dependencies]
